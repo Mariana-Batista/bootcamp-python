@@ -1,0 +1,68 @@
+Produto,Categoria,Quantidade,Venda,Data,Total
+Smartphone,Eletrônicos,8,1200,2023-02-10,9600
+Fone de Ouvido Bluetooth,Eletrônicos,15,150,2023-02-10,2250
+Câmera Digital,Eletrônicos,4,800,2023-02-10,3200
+Monitor 4K,Eletrônicos,2,2500,2023-02-10,5000
+Impressora,Eletrônicos,6,450,2023-02-10,2700
+Laptop,Eletrônicos,5,3000,2023-02-10,15000
+Tablet,Eletrônicos,7,600,2023-02-10,4200
+Smartwatch,Eletrônicos,10,200,2023-02-10,2000
+Caixa de Som Bluetooth,Eletrônicos,12,250,2023-02-10,3000
+Teclado Mecânico,Eletrônicos,5,100,2023-02-10,500
+Mouse Gamer,Eletrônicos,20,80,2023-02-10,1600
+HD Externo,Eletrônicos,3,400,2023-02-10,1200
+Webcam,Eletrônicos,9,120,2023-02-10,1080
+Roteador Wi-Fi,Eletrônicos,11,300,2023-02-10,3300
+Alto-Falante,Eletrônicos,8,350,2023-02-10,2800
+Extensor de Rede,Eletrônicos,14,180,2023-02-10,2520
+Bateria Externa,Eletrônicos,6,100,2023-02-10,600
+Cabo HDMI,Acessórios,25,15,2023-02-10,375
+Adaptador USB-C,Acessórios,18,25,2023-02-10,450
+Suporte para Notebook,Acessórios,10,50,2023-02-10,500
+Smartphone,Eletrônicos,8,1200,2023-02-11,9600
+Fone de Ouvido Bluetooth,Eletrônicos,15,150,2023-02-11,2250
+Câmera Digital,Eletrônicos,4,800,2023-02-11,3200
+Monitor 4K,Eletrônicos,2,2500,2023-02-11,5000
+Impressora,Eletrônicos,6,450,2023-02-11,2700
+Laptop,Eletrônicos,5,3000,2023-02-11,15000
+Tablet,Eletrônicos,7,600,2023-02-11,4200
+Smartwatch,Eletrônicos,11,200,2023-02-11,2200
+Caixa de Som Bluetooth,Eletrônicos,12,250,2023-02-11,3000
+Teclado Mecânico,Eletrônicos,5,-110,2023-02-11,-550
+Mouse Gamer,Eletrônicos,20,80,2023-02-11,1600
+HD Externo,Eletrônicos,3,400,2023-02-11,1200
+Webcam,Eletrônicos,9,120,2023-02-11,1080
+Roteador Wi-Fi,Eletrônicos,11,300,2023-02-11,3300
+Alto-Falante,Eletrônicos,8,350,2023-02-11,2800
+Extensor de Rede,Eletrônicos,14,180,2023-02-11,2520
+Bateria Externa,Eletrônicos,6,-110,2023-02-11,-660
+Cabo HDMI,Acessórios,25,15,2023-02-11,375
+Adaptador USB-C,Acessórios,18,25,2023-02-11,450
+Suporte para Notebook,Acessórios,11,50,2023-02-11,550
+Câmera de Segurança,Eletrônicos,5,300,2023-02-11,1500
+Drone,Eletrônicos,3,1500,2023-02-11,4500
+Smartphone,Eletrônicos,8,1200,2023-02-12,9600
+Fone de Ouvido Bluetooth,Eletrônicos,15,150,2023-02-12,2250
+Câmera Digital,Eletrônicos,4,800,2023-02-12,3200
+Monitor 4K,Eletrônicos,2,2500,2023-02-12,5000
+Impressora,Eletrônicos,6,450,2023-02-12,2700
+Laptop,Eletrônicos,5,3000,2023-02-12,15000
+Tablet,Eletrônicos,7,600,2023-02-12,4200
+Smartwatch,Eletrônicos,12,200,2023-02-12,2400
+Caixa de Som Bluetooth,Eletrônicos,12,250,2023-02-12,3000
+Teclado Mecânico,Eletrônicos,5,120,2023-02-12,600
+Mouse Gamer,Eletrônicos,20,80,2023-02-12,1600
+HD Externo,Eletrônicos,3,400,2023-02-12,1200
+Webcam,Eletrônicos,9,120,2023-02-12,1080
+Roteador Wi-Fi,Eletrônicos,11,300,2023-02-12,3300
+Alto-Falante,Eletrônicos,8,350,2023-02-12,2800
+Extensor de Rede,Eletrônicos,14,180,2023-02-12,2520
+Bateria Externa,Eletrônicos,6,120,2023-02-12,720
+Cabo HDMI,Acessórios,25,15,2023-02-12,375
+Adaptador USB-C,Acessórios,18,25,2023-02-12,450
+Suporte para Notebook,Acessórios,12,50,2023-02-12,600
+Câmera de Segurança,Eletrônicos,5,300,2023-02-12,1500
+Drone,Eletrônicos,3,1500,2023-02-12,4500
+Leitor de Cartão,Acessórios,12,30,2023-02-12,360
+Projetor,Eletrônicos,4,2000,2023-02-12,8000
+Console de Videogame,Eletrônicos,2,3000,2023-02-12,6000
