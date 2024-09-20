@@ -1,0 +1,156 @@
+[
+    {
+        "Produto": "Smartphone",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 8,
+        "Venda": 1200,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Fone de Ouvido Bluetooth",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 15,
+        "Venda": 150,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Câmera Digital",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 4,
+        "Venda": 800,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Monitor 4K",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 2,
+        "Venda": 2500,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Impressora",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 6,
+        "Venda": 450,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Laptop",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 5,
+        "Venda": 3000,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Tablet",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 7,
+        "Venda": 600,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Smartwatch",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 10,
+        "Venda": 200,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Caixa de Som Bluetooth",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 12,
+        "Venda": 250,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Teclado Mecânico",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 5,
+        "Venda": 100,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Mouse Gamer",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 20,
+        "Venda": 80,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "HD Externo",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 3,
+        "Venda": 400,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Webcam",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 9,
+        "Venda": 120,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Roteador Wi-Fi",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 11,
+        "Venda": 300,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Alto-Falante",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 8,
+        "Venda": 350,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Extensor de Rede",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 14,
+        "Venda": 180,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Bateria Externa",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 6,
+        "Venda": 100,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Cabo HDMI",
+        "Categoria": "Acessórios",
+        "Quantidade": 25,
+        "Venda": 15,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Adaptador USB-C",
+        "Categoria": "Acessórios",
+        "Quantidade": 18,
+        "Venda": 25,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Suporte para Notebook",
+        "Categoria": "Acessórios",
+        "Quantidade": 10,
+        "Venda": 50,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Câmera de Segurança",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 5,
+        "Venda": 300,
+        "Data": "2023-02-10"
+    },
+    {
+        "Produto": "Drone",
+        "Categoria": "Eletrônicos",
+        "Quantidade": 3,
+        "Venda": 1500,
+        "Data": "2023-02-10"
+    }
+]
