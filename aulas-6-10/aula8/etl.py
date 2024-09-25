@@ -3,6 +3,8 @@ import json
 import os
 import glob
 
+from utils_log import log_decorator
+
 """
 Função de extract lê e consolida os JSON
 """
