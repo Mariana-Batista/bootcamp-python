@@ -1,6 +1,6 @@
-# bootcamp-python
+# Bootcamp Python
 
-<p> Códigos e exemplos em python para análise de dados </p>
+<p> Repositório de códigos e exemplos em python para engenharia de dados </p>
 
 <h2> Pasta aulas-1-4 </h2>
 
@@ -17,4 +17,11 @@
     <ul>
         <li>Funções</li>
         <li>ETL</li>
+    </ul>
+
+<h2> Pasta aulas-11-15 </h2>
+
+<p> Classes </p>
+    <ul>
+        <li>Classes</li>
     </ul>
