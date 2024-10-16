@@ -1,20 +1,10 @@
-from sqlalchemy import create_engine, Column, Integer, String
-from sqlalchemy.orm import declarative_base
+from typing import Optional
 
-#Criando a conexão com o BD SQLite
+from sqlmodel import Field, SQLModel
 
-engine = create_engine('sqlite:///meubanco.db', echo=True) 
 
-print('Conexão com SQLite estabelecida.')
-
-Base = declarative_base()
-
-class Usuario(Base):
-    __tablename__ = 'usuarios'
-    
-    id = Column(Integer, primary_key=True)
-    nome = Column(String)
-    idade = Column(Integer)
-    
-#Criar as tabelas no bd
-Base.metadata.create_all(engine)
+class Hero(SQLModel, table=True):
+    id: Optional[int] = Field(default=None, primary_key=True)
+    name: str
+    secret_name: str
+    age: Optional[int] = None
