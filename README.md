@@ -24,4 +24,13 @@
 <p> Classes </p>
     <ul>
         <li>Classes</li>
+        <li>Orientação a objetos</li>
     </ul>
+
+<h2> Pasta aulas-16-19 </h2>
+
+<p> SQL e CRUD </p>
+    <ul>
+        <li>SQLAlchemy</li>
+    </ul>
+
