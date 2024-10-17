@@ -29,8 +29,9 @@
 
 <h2> Pasta aulas-16-19 </h2>
 
-<p> SQL e CRUD </p>
+<p> SQL, API e CRUD </p>
     <ul>
         <li>SQLAlchemy</li>
+        <li>API's e biblioteca Requests</li>
     </ul>
 
