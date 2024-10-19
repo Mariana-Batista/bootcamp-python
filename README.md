@@ -16,7 +16,7 @@
 <p> Funções </p>
     <ul>
         <li>Funções</li>
-        <li>ETL</li>
+        <li>ETL</li>Dados IdealizarId
     </ul>
 
 <h2> Pasta aulas-11-15 </h2>
@@ -33,5 +33,6 @@
     <ul>
         <li>SQLAlchemy</li>
         <li>API's e biblioteca Requests</li>
+        <li>FastAPI</li>
     </ul>
 
