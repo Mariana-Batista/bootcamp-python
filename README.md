@@ -1,8 +1,12 @@
 # Bootcamp Python
 
-<p> Repositório de códigos e exemplos em python para engenharia de dados </p>
+Durante este bootcamp, realizei uma imersão prática nos conceitos fundamentais de Python, abordando desde estruturas básicas como controle de fluxo e manipulação de listas até tópicos mais avançados como orientação a objetos e integração com APIs. Ao longo do programa, desenvolvi habilidades em tratamento de erros com try/except, criação de funções personalizadas e automação de processos ETL.
 
-<h2> Pasta aulas-1-4 </h2>
+O projeto final consistiu na implementação de uma aplicação CRUD, utilizando a biblioteca SQLAlchemy para a comunicação com bancos de dados e integração com um front-end simples. A aplicação exemplificou toda a jornada de construção de software, incluindo modelagem de dados e consumo de APIs, consolidando os aprendizados obtidos. Todo o código desenvolvido pode ser conferido no repositório no GitHub e outros exemplos no repositório principal.
+
+## Repositório de códigos e exemplos em python para engenharia de dados
+
+<h2> Pasta aulas-1-4
 
 <p> Fundamentos iniciais </p>
     <ul>
